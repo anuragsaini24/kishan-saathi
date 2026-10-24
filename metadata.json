@@ -1,0 +1,8 @@
+{
+  "name": "KisanSaathi AI 🌱",
+  "description": "Detect Early. Act Smarter. Save Crops. Modern AI farming assistant for Indian farmers powered by Gemma open models, featuring crop disease diagnosis, Hindi voice assistant, agro-weather alerts, and crop advisory.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
